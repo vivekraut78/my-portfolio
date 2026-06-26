@@ -1,0 +1,12 @@
+body {
+  padding-top: 70px;
+}
+.hero-section 
+{
+  min-height: 100vh;
+  background-color: #f8f9fa;
+}
+html 
+{
+  scroll-behavior: smooth;
+}
